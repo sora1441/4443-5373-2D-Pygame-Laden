@@ -2,6 +2,6 @@
 ## Brent Laden
 #### Repo: 4443 2D PyGame
 #### Email: brelad41@gmail.com
-![My Face](https://drive.google.com/file/d/1WJYy6JjtYzcReCyrq0Uol-W5WF9q5SSK/view?usp=sharing)
+![My Face](https://github.com/sora1441/Pictures/blob/master/47350879_1907067469362275_226303501863485440_n.jpg)
 #### Avatar:
-![Avatar]()
+![Avatar](https://github.com/sora1441/Pictures/blob/master/IMG_5586.PNG)
