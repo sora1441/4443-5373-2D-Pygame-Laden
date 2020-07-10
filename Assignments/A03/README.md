@@ -1,3 +1,4 @@
 ## Project: Hello Wolrd of Python
 ### Name: Brent Laden
-#### Description: When you type> python main.py > into your command prompt, the program will run the hello world program with my name and show a little box displaying the result.
+#### Description: When this program runs, it will display a box that says "Hello World! My name is Brent!"
+##### Instructions:Type python main.py into the command prompt after loading python
