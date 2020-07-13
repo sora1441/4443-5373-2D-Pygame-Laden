@@ -4,7 +4,7 @@
 ### Instructions: Type python main.py into the command prompt of python to run. Since the json file is called within main, there is no need to do anything more.
 |   #   | File            | Description                                        |
 | :---: | ----------------------- | -------------------------------------------------- |
-|   1   | [Main.py] (https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/A04/main.py)| Main driver of my project that launches program      |
+|   1   | [Main.py](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/A04/main.py)| Main driver of my project that launches program      |
 |   2   | [player-info.json](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/A04/player-info.json)  | json file that stores player stats        |
 |   3   | [player-output-screenshot.PNG](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/A04/player-output-screenshot.PNG) | Screenshot of output|
 
