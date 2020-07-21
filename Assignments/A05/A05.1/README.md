@@ -12,12 +12,12 @@
 |   7   | [Snapshot_3.PNG](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/A05/A05.1/images/Snapshot_3.png) | screencapture of game |
 #### Instructions: the player will be required to add commands within the command line to run the program.
 #### After python and the name of the file, the user must add:
-  *Title of game
-  *path to sprite image
-  *width of window
-  *height of window
-  *width of sprite
-  *height of sprite
+  * Title of game
+  * path to sprite image
+  * width of window
+  * height of window
+  * width of sprite
+  * height of sprite
 #### The command should read as this: python LostPirate.py title='Wonderer' img_path=./images/zoro.png width=500 height=500 pwidth=100 pheight=100
 #### When the program runs, the output will look like so:
 ![screenshot 1](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/A05/A05.1/images/Snapshot_1.PNG)
