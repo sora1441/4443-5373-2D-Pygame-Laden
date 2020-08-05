@@ -20,6 +20,6 @@
 #### The command should read as this: python game4.py waterbender 600 600
 #### There is no need to put lables before the additional information
 #### When the program runs, the output will look like so:
-![screenshot 1] (https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P01/snapshot_1.png)
-![screenshot 2] (https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P01/snapshot_2.png)
-![screenshot 3] (https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P01/snapshot_3.png)
+![screenshot 1](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P01/snapshot_1.png)
+![screenshot 2](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P01/snapshot_2.png)
+![screenshot 3](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P01/snapshot_3.png)
