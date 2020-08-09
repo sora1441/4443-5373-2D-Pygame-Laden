@@ -17,6 +17,7 @@
 |12|[horizontal_boarder.png](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P01/horizontal_boarder.png)|sprite for top and bottom boarders|
 |13|[vertical_boarder.png](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P01/vertical_boarder.png)|sprite for the left and right boarders|
 |14|[zombies.png](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P01/zombies.png)|sprite for the enemy characters|
+|15|[audio.mp3](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P01/audio.mp3)|game music|
 #### Instructions: the player will be required to add commands within the command line to run the program.
 #### After python and the name of the file, the user must add the following in this order:
   * height of window
