@@ -11,5 +11,7 @@
 |4|[spritesheet_jumper.xml](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P02/img/spritesheet_jumper.xml)|dimensions for all sprites on spritesheet|
 |5|[spritesheet_jumper.png](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P02/img/spritesheet_jumper.png)|spritesheet|
 |6|[splash.png](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P02/splash.png)|splash page|
+|7|[screenshot_1.png](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P02/img/screenshot_1.png)|screenshot of start of game|
+|8|[screenshot_2.png](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P02/img/screenshot_2.png)|screenshot with medal|
 #### When the program runs, the output will look like so:
-![output](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/A04/player-output-screenshot.PNG)
+![shreenshot_2](https://github.com/sora1441/4443-5373-2D-Pygame-Laden/blob/master/Assignments/P02/img/screenshot_2.png)
